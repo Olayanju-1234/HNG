@@ -7,7 +7,7 @@ A simple public API for HNG12 Stage 0 that returns:
 - My GitHub repository URL
 
 ## Endpoint
-**GET** `[<my deployed url>](https://hng-1orb.onrender.com/)`
+**GET** https://hng-1orb.onrender.com/
 
 ### Example Response
 ```json
@@ -19,10 +19,10 @@ A simple public API for HNG12 Stage 0 that returns:
 ```
 
 ### Running Locally
-git clone https://github.com/Olayanju-1234/HNG.git
-cd hng
-cd stage0
-yarn install
-node index.js
+- git clone https://github.com/Olayanju-1234/HNG.git
+- cd hng
+- cd stage0
+- yarn install
+- node index.js
 
 ### [Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
